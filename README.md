@@ -7,5 +7,4 @@
 
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=xxnonamexx)](https://solved.ac/profile/xxnonamexx)
 
-## 2022년 2학기
-### 소프트웨어개발실무 | 팀이름 | Team 8. currency system
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
