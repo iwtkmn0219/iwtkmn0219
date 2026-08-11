@@ -26,6 +26,7 @@
   [![iwtkmn](http://mazassumnida.wtf/api/v2/generate_badge?boj=iwtkmn)](https://solved.ac/iwtkmn)
 </div>
 
+<!-- 
 ---
 
 <div align=center>
@@ -39,3 +40,5 @@
 | `2022` | 👥 소프트웨어융합대학 학회 **0&1** 부학회장 |
 | `2021` | 🎓 한양대학교 ERICA 소프트웨어학부 입학 |
 </div>
+
+-->
