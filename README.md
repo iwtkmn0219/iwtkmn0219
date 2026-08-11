@@ -15,6 +15,20 @@
 ---
 
 <div align=center>
+  
+# My stacks
+  
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+  
+  [![xxnonamexx](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxnonamexx)](https://solved.ac/xxnonamexx)
+  [![iwtkmn](http://mazassumnida.wtf/api/v2/generate_badge?boj=iwtkmn)](https://solved.ac/iwtkmn)
+</div>
+
+---
+
+<div align=center>
 
 # Timeline
 
@@ -24,12 +38,4 @@
 | `2023` | 👥 소프트웨어융합대학 학회 **0&1** 부학회장 |
 | `2022` | 👥 소프트웨어융합대학 학회 **0&1** 부학회장 |
 | `2021` | 🎓 한양대학교 ERICA 소프트웨어학부 입학 |
-</div>
-
----
-
-<div align=center>
-  
-  [![xxnonamexx](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxnonamexx)](https://solved.ac/xxnonamexx)
-  [![iwtkmn](http://mazassumnida.wtf/api/v2/generate_badge?boj=iwtkmn)](https://solved.ac/iwtkmn)
 </div>
