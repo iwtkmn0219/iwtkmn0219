@@ -8,6 +8,3 @@
 
 [![xxnonamexx](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxnonamexx)](https://solved.ac/xxnonamexx)
 [![iwtkmn](http://mazassumnida.wtf/api/v2/generate_badge?boj=iwtkmn)](https://solved.ac/iwtkmn)
-
-![iwtkmn0219 GitHub stats](https://github-readme-stats.vercel.app/api?username=iwtkmn0219&show_icons=true&theme=onedark )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwtkmn0219&layout=compact&theme=onedark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
